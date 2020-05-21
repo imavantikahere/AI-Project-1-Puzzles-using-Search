@@ -1,4 +1,4 @@
-# AI-Projects
+# AI-Project 1: Puzzles using Search
 CMP 433- Artificial Intelligence Projects done as part of coursework.
 This project was a part ofcoursework for CMP 433- Artificial Intelligence, Spring 2020. 
 
